@@ -6,3 +6,5 @@
 
 # Installation
 pipenv install
+
+test
