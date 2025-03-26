@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pytest-playwright = "*"
 pylint = "*"
+behave = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
