@@ -6,3 +6,10 @@
 
 # Installation
 pipenv install
+
+# .env
+BASE_URL=
+
+ADMIN_EMAIL=
+
+ADMIN_PASSWORD=
